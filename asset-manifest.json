@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ToggleColor-Assignment/static/css/main.073c9b0a.css",
+    "main.js": "/ToggleColor-Assignment/static/js/main.7104c629.js",
+    "static/js/787.4b1edb8e.chunk.js": "/ToggleColor-Assignment/static/js/787.4b1edb8e.chunk.js",
+    "index.html": "/ToggleColor-Assignment/index.html",
+    "main.073c9b0a.css.map": "/ToggleColor-Assignment/static/css/main.073c9b0a.css.map",
+    "main.7104c629.js.map": "/ToggleColor-Assignment/static/js/main.7104c629.js.map",
+    "787.4b1edb8e.chunk.js.map": "/ToggleColor-Assignment/static/js/787.4b1edb8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7104c629.js"
+  ]
+}
